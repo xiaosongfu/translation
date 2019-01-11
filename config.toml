@@ -1,0 +1,9 @@
+baseURL = "https://translation-36518.firebaseapp.com/"
+languageCode = "en-us"
+title = "Translation Joy!"
+
+# from: material-design
+theme="material-design"
+MetaDataFormat = "toml"
+paginate = 9 # To specify a multiple of 3
+copyright = "© 2019 Copyright Text"
