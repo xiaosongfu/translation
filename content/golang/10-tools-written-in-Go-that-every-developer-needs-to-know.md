@@ -2,8 +2,8 @@
 title: "每个开发人员都需要知道的用 Go 编写的10个工具"
 date: 2019-01-30T14:06:11+08:00
 draft: false
-tags: ["tag1", "tag2", "tag3"]
-categories: ["cat1","cat2"]
+tags: ["Golang"]
+categories: ["Golang"]
 ---
 
 > 原文链接：[10 tools written in Go that every developer needs to know](https://gustavohenrique.net/en/2019/01/10-tools-written-in-go-that-every-dev-needs-to-know/)

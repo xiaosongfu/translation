@@ -2,8 +2,8 @@
 title: "使用 Go Modules"
 date: 2019-01-30T16:56:11+08:00
 draft: false
-tags: ["tag1", "tag2", "tag3"]
-categories: ["cat1","cat2"]
+tags: ["Golang", "Go Modules"]
+categories: ["Golang"]
 ---
 
 > 原文链接：[Working with Go Modules](https://blog.jetbrains.com/go/2019/01/22/working-with-go-modules/)
