@@ -10,3 +10,4 @@
 6. hugo new golang/Working-with-Go-Modules.md
 7. hugo new serverless/The-Future-of-Kubernetes-Is-Serverless.md
 8. hugo new microservice/Microservices.mds
+9. hugo new rust/cargo-next-few-years.md

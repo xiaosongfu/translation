@@ -2,3 +2,4 @@
 * Flutter
 * Golang
 * Microservice
+* Rust
